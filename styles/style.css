@@ -292,7 +292,7 @@
   background-image: url('../images/kaufman-triangle.svg');
   width: 877px;
   height: 877px;
-  object-fit: cover;
+  background-size: cover;
 }
 
 .section-title_theme_dark {
